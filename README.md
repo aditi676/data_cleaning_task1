@@ -68,5 +68,3 @@ Saved the final cleaned dataset as `netflix_titles_cleaned.csv` using `.to_csv()
 - How to identify and standardize inconsistent text and date formats.
 - Importance of checking data types before analysis to avoid downstream errors.
 
----
-*Submitted as part of the Data Analyst Internship — Elevate Labs*
